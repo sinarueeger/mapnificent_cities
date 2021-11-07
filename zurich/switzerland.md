@@ -10,7 +10,7 @@ description: ''
 gtfs:
   zurich:
     sha256: bf41c7f59e98fb2cffa6207c2654d39a46d59db09bddd65a9ca97ea8d69391cb
-    url: https://opentransportdata.swiss/en/dataset/timetable-2017-gtfs/permalink
+    url: https://opentransportdata.swiss/en/dataset/timetable-2021-gtfs2020/permalink
 options:
   estimatedMaxCalculateCalls: 900000
   maxWalkTravelTime: 43200
